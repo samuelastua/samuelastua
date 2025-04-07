@@ -7,4 +7,5 @@
 - Arch btw
 - Simplicity over complexity advocate (sometimes)
 - I want to understand memory and cpu at the lowest level possible
-- CSS as a backend language 
+- CSS as a backend language
+- Watch me live coding on YouTube [here](samuelastua/coding-interview-university")
